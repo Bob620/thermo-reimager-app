@@ -99,7 +99,7 @@
     "bent": "^7.3.12",
     "browserify": "^16.5.1",
     "browserify-css": "^0.15.0",
-    "electron": "10.1.5",
+    "electron": "10.2.0",
     "electron-builder": "^22.9.1",
     "electron-packager": "^15.1.0",
     "electron-rebuild": "^2.3.2",
